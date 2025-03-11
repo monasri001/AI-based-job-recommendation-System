@@ -1,0 +1,802 @@
+[
+    {
+        "name": "Stephen",
+        "email": "stephen37@yahoo.com",
+        "skills": "ML, React",
+        "experience": 1,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Megan",
+        "email": "megan68@yahoo.com",
+        "skills": "AWS, Keras, Python, Tensorflow",
+        "experience": 8,
+        "bio": "Full-stack developer with a love for coding.",
+        "location": "Jaipur"
+    },
+    {
+        "name": "Vanessa",
+        "email": "vanessa88@gmail.com",
+        "skills": "ML, Tensorflow, Azure, Node.js",
+        "experience": 1,
+        "bio": "Software engineer with expertise in cloud computing.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Krista",
+        "email": "krista81@hotmail.com",
+        "skills": "Tensorflow, Azure, Java",
+        "experience": 7,
+        "bio": "Machine learning expert with real-world project experience.",
+        "location": "Bangalore"
+    },
+    {
+        "name": "Linda",
+        "email": "linda33@hotmail.com",
+        "skills": "Python, Tensorflow, Data Science",
+        "experience": 10,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Jaipur"
+    },
+    {
+        "name": "Heidi",
+        "email": "heidi13@gmail.com",
+        "skills": "AWS, React, Node.js",
+        "experience": 2,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Delhi"
+    },
+    {
+        "name": "Jeremy",
+        "email": "jeremy89@yahoo.com",
+        "skills": "Java, Python, Data Science, Node.js",
+        "experience": 6,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Jason",
+        "email": "jason26@gmail.com",
+        "skills": "ML, Node.js",
+        "experience": 3,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Jaipur"
+    },
+    {
+        "name": "Alicia",
+        "email": "alicia89@hotmail.com",
+        "skills": "AWS, Java",
+        "experience": 4,
+        "bio": "Software engineer with expertise in cloud computing.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Vincent",
+        "email": "vincent82@gmail.com",
+        "skills": "React, Tensorflow, Node.js",
+        "experience": 3,
+        "bio": "Software engineer with expertise in cloud computing.",
+        "location": "Delhi"
+    },
+    {
+        "name": "Riley",
+        "email": "riley47@hotmail.com",
+        "skills": "AWS, Java",
+        "experience": 5,
+        "bio": "Cloud architect specializing in AWS and Azure.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Joyce",
+        "email": "joyce43@gmail.com",
+        "skills": "Python, Keras, AWS",
+        "experience": 1,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Michelle",
+        "email": "michelle91@hotmail.com",
+        "skills": "Node.js, AWS, Java",
+        "experience": 7,
+        "bio": "Passionate developer focused on backend solutions.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Corey",
+        "email": "corey83@yahoo.com",
+        "skills": "Java, AWS, Python",
+        "experience": 6,
+        "bio": "Passionate developer focused on backend solutions.",
+        "location": "Pune"
+    },
+    {
+        "name": "James",
+        "email": "james91@yahoo.com",
+        "skills": "Node.js, AWS, React, ML",
+        "experience": 8,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Pune"
+    },
+    {
+        "name": "Priscilla",
+        "email": "priscilla24@yahoo.com",
+        "skills": "Java, Python",
+        "experience": 8,
+        "bio": "Cloud architect specializing in AWS and Azure.",
+        "location": "Pune"
+    },
+    {
+        "name": "Melinda",
+        "email": "melinda52@yahoo.com",
+        "skills": "React, ML, Python, Java",
+        "experience": 4,
+        "bio": "Researcher focused on AI and machine learning advancements.",
+        "location": "Bangalore"
+    },
+    {
+        "name": "Ronald",
+        "email": "ronald89@gmail.com",
+        "skills": "Python, ML",
+        "experience": 10,
+        "bio": "Cloud architect specializing in AWS and Azure.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Carolyn",
+        "email": "carolyn75@gmail.com",
+        "skills": "ML, Node.js, Azure, React",
+        "experience": 2,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Chennai"
+    },
+    {
+        "name": "Austin",
+        "email": "austin75@gmail.com",
+        "skills": "React, Azure",
+        "experience": 3,
+        "bio": "Machine learning expert with real-world project experience.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Nicholas",
+        "email": "nicholas75@yahoo.com",
+        "skills": "Azure, Java, Node.js, ML",
+        "experience": 6,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Chennai"
+    },
+    {
+        "name": "Amanda",
+        "email": "amanda42@hotmail.com",
+        "skills": "Data Science, Java, ML, Tensorflow",
+        "experience": 10,
+        "bio": "Data scientist skilled in predictive modeling.",
+        "location": "Pune"
+    },
+    {
+        "name": "Mark",
+        "email": "mark67@yahoo.com",
+        "skills": "Azure, AWS",
+        "experience": 6,
+        "bio": "Software engineer with expertise in cloud computing.",
+        "location": "Ahmedabad"
+    },
+    {
+        "name": "Shirley",
+        "email": "shirley96@hotmail.com",
+        "skills": "Tensorflow, Node.js",
+        "experience": 6,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Rachael",
+        "email": "rachael40@yahoo.com",
+        "skills": "React, Python",
+        "experience": 4,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Chennai"
+    },
+    {
+        "name": "Stacy",
+        "email": "stacy65@hotmail.com",
+        "skills": "React, Tensorflow",
+        "experience": 10,
+        "bio": "Data scientist skilled in predictive modeling.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Jessica",
+        "email": "jessica33@yahoo.com",
+        "skills": "Node.js, Keras, React",
+        "experience": 9,
+        "bio": "Machine learning expert with real-world project experience.",
+        "location": "Coimbatore"
+    },
+    {
+        "name": "Amanda",
+        "email": "amanda13@gmail.com",
+        "skills": "Java, ML, React",
+        "experience": 2,
+        "bio": "Data scientist skilled in predictive modeling.",
+        "location": "Pune"
+    },
+    {
+        "name": "James",
+        "email": "james50@hotmail.com",
+        "skills": "Python, ML, React",
+        "experience": 5,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Jaipur"
+    },
+    {
+        "name": "Ann",
+        "email": "ann67@hotmail.com",
+        "skills": "Data Science, Azure, AWS",
+        "experience": 9,
+        "bio": "Full-stack developer with a love for coding.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Christopher",
+        "email": "christopher47@gmail.com",
+        "skills": "Java, Data Science",
+        "experience": 7,
+        "bio": "Full-stack developer with a love for coding.",
+        "location": "Coimbatore"
+    },
+    {
+        "name": "Daniel",
+        "email": "daniel55@gmail.com",
+        "skills": "Node.js, AWS",
+        "experience": 2,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Chennai"
+    },
+    {
+        "name": "Michael",
+        "email": "michael66@gmail.com",
+        "skills": "Data Science, Node.js, Keras, Tensorflow",
+        "experience": 5,
+        "bio": "Data scientist skilled in predictive modeling.",
+        "location": "Delhi"
+    },
+    {
+        "name": "Zachary",
+        "email": "zachary33@hotmail.com",
+        "skills": "Java, Python, AWS, React",
+        "experience": 10,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Ahmedabad"
+    },
+    {
+        "name": "Beverly",
+        "email": "beverly24@hotmail.com",
+        "skills": "Java, Node.js, Keras",
+        "experience": 4,
+        "bio": "Machine learning expert with real-world project experience.",
+        "location": "Chennai"
+    },
+    {
+        "name": "Daniel",
+        "email": "daniel11@yahoo.com",
+        "skills": "Data Science, React",
+        "experience": 7,
+        "bio": "Cloud architect specializing in AWS and Azure.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "James",
+        "email": "james22@hotmail.com",
+        "skills": "Azure, Tensorflow",
+        "experience": 2,
+        "bio": "Data scientist skilled in predictive modeling.",
+        "location": "Ahmedabad"
+    },
+    {
+        "name": "David",
+        "email": "david81@gmail.com",
+        "skills": "Tensorflow, Data Science, Azure, Python",
+        "experience": 10,
+        "bio": "Data scientist skilled in predictive modeling.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Heather",
+        "email": "heather52@hotmail.com",
+        "skills": "AWS, Java, Python",
+        "experience": 1,
+        "bio": "Software engineer with expertise in cloud computing.",
+        "location": "Pune"
+    },
+    {
+        "name": "Gene",
+        "email": "gene87@yahoo.com",
+        "skills": "Data Science, Java, AWS, React",
+        "experience": 7,
+        "bio": "Data scientist skilled in predictive modeling.",
+        "location": "Ahmedabad"
+    },
+    {
+        "name": "Deborah",
+        "email": "deborah36@hotmail.com",
+        "skills": "React, Node.js",
+        "experience": 3,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Elizabeth",
+        "email": "elizabeth15@yahoo.com",
+        "skills": "AWS, Tensorflow, Python, Data Science",
+        "experience": 8,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Pune"
+    },
+    {
+        "name": "Christina",
+        "email": "christina98@hotmail.com",
+        "skills": "Azure, ML, Tensorflow, Keras",
+        "experience": 5,
+        "bio": "Machine learning expert with real-world project experience.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Brittany",
+        "email": "brittany71@gmail.com",
+        "skills": "React, Java, AWS, Node.js",
+        "experience": 1,
+        "bio": "Software engineer with expertise in cloud computing.",
+        "location": "Ahmedabad"
+    },
+    {
+        "name": "Heather",
+        "email": "heather61@hotmail.com",
+        "skills": "Python, AWS, ML",
+        "experience": 10,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Ahmedabad"
+    },
+    {
+        "name": "Nicole",
+        "email": "nicole41@hotmail.com",
+        "skills": "Python, Tensorflow",
+        "experience": 6,
+        "bio": "Machine learning expert with real-world project experience.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Lisa",
+        "email": "lisa31@yahoo.com",
+        "skills": "Node.js, ML",
+        "experience": 5,
+        "bio": "Data scientist skilled in predictive modeling.",
+        "location": "Pune"
+    },
+    {
+        "name": "Megan",
+        "email": "megan84@hotmail.com",
+        "skills": "Node.js, AWS, React",
+        "experience": 3,
+        "bio": "Machine learning expert with real-world project experience.",
+        "location": "Chennai"
+    },
+    {
+        "name": "Brandon",
+        "email": "brandon48@hotmail.com",
+        "skills": "React, Azure, Java, Data Science",
+        "experience": 3,
+        "bio": "Software engineer with expertise in cloud computing.",
+        "location": "Pune"
+    },
+    {
+        "name": "Marcus",
+        "email": "marcus15@gmail.com",
+        "skills": "React, Node.js, Python",
+        "experience": 9,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Carolyn",
+        "email": "carolyn17@gmail.com",
+        "skills": "Azure, Python, React",
+        "experience": 3,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Coimbatore"
+    },
+    {
+        "name": "Edward",
+        "email": "edward82@gmail.com",
+        "skills": "Tensorflow, ML, Azure",
+        "experience": 2,
+        "bio": "Full-stack developer with a love for coding.",
+        "location": "Pune"
+    },
+    {
+        "name": "Rachel",
+        "email": "rachel40@yahoo.com",
+        "skills": "Keras, Python, ML, Tensorflow",
+        "experience": 10,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Delhi"
+    },
+    {
+        "name": "Henry",
+        "email": "henry49@yahoo.com",
+        "skills": "Java, ML, React",
+        "experience": 9,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Chennai"
+    },
+    {
+        "name": "Sherry",
+        "email": "sherry67@yahoo.com",
+        "skills": "Keras, Tensorflow, Java",
+        "experience": 5,
+        "bio": "Data scientist skilled in predictive modeling.",
+        "location": "Coimbatore"
+    },
+    {
+        "name": "Sharon",
+        "email": "sharon16@hotmail.com",
+        "skills": "React, Java, AWS",
+        "experience": 7,
+        "bio": "Full-stack developer with a love for coding.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Marc",
+        "email": "marc12@yahoo.com",
+        "skills": "Tensorflow, Node.js, Java, Data Science",
+        "experience": 5,
+        "bio": "Cloud architect specializing in AWS and Azure.",
+        "location": "Jaipur"
+    },
+    {
+        "name": "Kim",
+        "email": "kim92@gmail.com",
+        "skills": "Node.js, AWS",
+        "experience": 6,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Ashley",
+        "email": "ashley95@gmail.com",
+        "skills": "Data Science, AWS",
+        "experience": 9,
+        "bio": "Full-stack developer with a love for coding.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Troy",
+        "email": "troy62@hotmail.com",
+        "skills": "React, Data Science, Java, AWS",
+        "experience": 3,
+        "bio": "Cloud architect specializing in AWS and Azure.",
+        "location": "Bangalore"
+    },
+    {
+        "name": "Elizabeth",
+        "email": "elizabeth37@yahoo.com",
+        "skills": "Python, ML",
+        "experience": 9,
+        "bio": "Researcher focused on AI and machine learning advancements.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Hannah",
+        "email": "hannah12@gmail.com",
+        "skills": "Java, React",
+        "experience": 3,
+        "bio": "Cloud architect specializing in AWS and Azure.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Wendy",
+        "email": "wendy21@gmail.com",
+        "skills": "Java, AWS, Python",
+        "experience": 9,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "James",
+        "email": "james31@hotmail.com",
+        "skills": "AWS, Azure",
+        "experience": 9,
+        "bio": "Researcher focused on AI and machine learning advancements.",
+        "location": "Delhi"
+    },
+    {
+        "name": "Brittney",
+        "email": "brittney57@gmail.com",
+        "skills": "Data Science, Tensorflow, Node.js, AWS",
+        "experience": 1,
+        "bio": "Researcher focused on AI and machine learning advancements.",
+        "location": "Pune"
+    },
+    {
+        "name": "Janet",
+        "email": "janet11@hotmail.com",
+        "skills": "Node.js, React, Tensorflow",
+        "experience": 5,
+        "bio": "Full-stack developer with a love for coding.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Anthony",
+        "email": "anthony62@hotmail.com",
+        "skills": "AWS, Python",
+        "experience": 5,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Delhi"
+    },
+    {
+        "name": "Debra",
+        "email": "debra48@yahoo.com",
+        "skills": "Azure, Java, Data Science",
+        "experience": 3,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Brian",
+        "email": "brian17@gmail.com",
+        "skills": "Java, Python, React, Keras",
+        "experience": 3,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Jaipur"
+    },
+    {
+        "name": "Heather",
+        "email": "heather91@hotmail.com",
+        "skills": "Python, React, AWS, Java",
+        "experience": 1,
+        "bio": "Passionate developer focused on backend solutions.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Christina",
+        "email": "christina14@gmail.com",
+        "skills": "Azure, Tensorflow, Java, Node.js",
+        "experience": 3,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Bangalore"
+    },
+    {
+        "name": "Mary",
+        "email": "mary30@gmail.com",
+        "skills": "Data Science, ML, Java, Tensorflow",
+        "experience": 8,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Delhi"
+    },
+    {
+        "name": "Kristina",
+        "email": "kristina68@hotmail.com",
+        "skills": "Azure, Tensorflow, Java, Node.js",
+        "experience": 3,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Jaipur"
+    },
+    {
+        "name": "Debra",
+        "email": "debra96@yahoo.com",
+        "skills": "Keras, Data Science, Java, AWS",
+        "experience": 9,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Pune"
+    },
+    {
+        "name": "Victor",
+        "email": "victor41@gmail.com",
+        "skills": "Tensorflow, Node.js, Python, ML",
+        "experience": 2,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Adam",
+        "email": "adam96@yahoo.com",
+        "skills": "Azure, React, AWS, Java",
+        "experience": 7,
+        "bio": "Software engineer with expertise in cloud computing.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Allison",
+        "email": "allison87@hotmail.com",
+        "skills": "Node.js, AWS",
+        "experience": 2,
+        "bio": "Software engineer with expertise in cloud computing.",
+        "location": "Ahmedabad"
+    },
+    {
+        "name": "Lauren",
+        "email": "lauren27@gmail.com",
+        "skills": "Keras, Azure",
+        "experience": 4,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "James",
+        "email": "james50@hotmail.com",
+        "skills": "Java, ML, Node.js, Keras",
+        "experience": 6,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Delhi"
+    },
+    {
+        "name": "Jeffrey",
+        "email": "jeffrey36@hotmail.com",
+        "skills": "React, Python, Data Science",
+        "experience": 4,
+        "bio": "Passionate developer focused on backend solutions.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Brenda",
+        "email": "brenda83@yahoo.com",
+        "skills": "ML, Data Science, React, Azure",
+        "experience": 3,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Coimbatore"
+    },
+    {
+        "name": "Whitney",
+        "email": "whitney49@yahoo.com",
+        "skills": "Azure, Tensorflow, Data Science",
+        "experience": 10,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Jaipur"
+    },
+    {
+        "name": "Frederick",
+        "email": "frederick40@yahoo.com",
+        "skills": "Node.js, ML, Data Science",
+        "experience": 6,
+        "bio": "Cloud architect specializing in AWS and Azure.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Thomas",
+        "email": "thomas75@yahoo.com",
+        "skills": "Python, Azure",
+        "experience": 9,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Bangalore"
+    },
+    {
+        "name": "Julie",
+        "email": "julie64@yahoo.com",
+        "skills": "Java, ML",
+        "experience": 10,
+        "bio": "Cloud architect specializing in AWS and Azure.",
+        "location": "Hyderabad"
+    },
+    {
+        "name": "Jennifer",
+        "email": "jennifer81@yahoo.com",
+        "skills": "Node.js, ML, Data Science, Azure",
+        "experience": 2,
+        "bio": "Passionate developer focused on backend solutions.",
+        "location": "Bangalore"
+    },
+    {
+        "name": "Cindy",
+        "email": "cindy72@yahoo.com",
+        "skills": "Node.js, React, ML",
+        "experience": 1,
+        "bio": "Passionate developer focused on backend solutions.",
+        "location": "Chennai"
+    },
+    {
+        "name": "Jennifer",
+        "email": "jennifer81@hotmail.com",
+        "skills": "ML, Java, Keras",
+        "experience": 8,
+        "bio": "Researcher focused on AI and machine learning advancements.",
+        "location": "Delhi"
+    },
+    {
+        "name": "Christian",
+        "email": "christian50@gmail.com",
+        "skills": "Node.js, Tensorflow, Java, Python",
+        "experience": 5,
+        "bio": "Innovative thinker with strong problem-solving skills.",
+        "location": "Kolkata"
+    },
+    {
+        "name": "Kim",
+        "email": "kim17@hotmail.com",
+        "skills": "Tensorflow, Azure, Node.js",
+        "experience": 2,
+        "bio": "Tech enthusiast always exploring new technologies.",
+        "location": "Coimbatore"
+    },
+    {
+        "name": "Scott",
+        "email": "scott69@gmail.com",
+        "skills": "Python, Java, React, Azure",
+        "experience": 9,
+        "bio": "Full-stack developer with a love for coding.",
+        "location": "Pune"
+    },
+    {
+        "name": "Chelsea",
+        "email": "chelsea73@yahoo.com",
+        "skills": "Python, Azure",
+        "experience": 7,
+        "bio": "AI enthusiast with experience in ML models.",
+        "location": "Coimbatore"
+    },
+    {
+        "name": "Shannon",
+        "email": "shannon88@gmail.com",
+        "skills": "Tensorflow, Keras",
+        "experience": 4,
+        "bio": "Machine learning expert with real-world project experience.",
+        "location": "Bangalore"
+    },
+    {
+        "name": "Shelley",
+        "email": "shelley77@hotmail.com",
+        "skills": "Tensorflow, ML, Data Science, Java",
+        "experience": 9,
+        "bio": "Cloud architect specializing in AWS and Azure.",
+        "location": "Pune"
+    },
+    {
+        "name": "James",
+        "email": "james21@hotmail.com",
+        "skills": "Data Science, Keras, Azure",
+        "experience": 2,
+        "bio": "Passionate developer focused on backend solutions.",
+        "location": "Ahmedabad"
+    },
+    {
+        "name": "Lisa",
+        "email": "lisa31@yahoo.com",
+        "skills": "ML, Keras",
+        "experience": 6,
+        "bio": "Researcher focused on AI and machine learning advancements.",
+        "location": "Delhi"
+    },
+    {
+        "name": "Gary",
+        "email": "gary45@gmail.com",
+        "skills": "Azure, React, Data Science, Node.js",
+        "experience": 7,
+        "bio": "Passionate developer focused on backend solutions.",
+        "location": "Chennai"
+    },
+    {
+        "name": "Elizabeth",
+        "email": "elizabeth78@yahoo.com",
+        "skills": "Azure, Python",
+        "experience": 1,
+        "bio": "Machine learning expert with real-world project experience.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Pamela",
+        "email": "pamela59@gmail.com",
+        "skills": "ML, React, Java, Python",
+        "experience": 2,
+        "bio": "Researcher focused on AI and machine learning advancements.",
+        "location": "Mumbai"
+    },
+    {
+        "name": "Elizabeth",
+        "email": "elizabeth47@hotmail.com",
+        "skills": "Node.js, Keras, Java",
+        "experience": 7,
+        "bio": "Software engineer with expertise in cloud computing.",
+        "location": "Kolkata"
+    }
+]

@@ -1,0 +1,802 @@
+[
+    {
+        "title": "ML Engineer",
+        "description": "Develop machine learning models and optimize AI solutions.",
+        "company": "AI Solutions",
+        "required_skills": "Azure, Tensorflow, Keras, React",
+        "experience_required": 7,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "CloudNet",
+        "required_skills": "Python, Keras, React, Azure",
+        "experience_required": 8,
+        "location": "Mumbai"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Optimize system performance and troubleshoot issues.",
+        "company": "SoftServe",
+        "required_skills": "ML, Keras, Data Science",
+        "experience_required": 5,
+        "location": "Hyderabad"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "NextGen Tech",
+        "required_skills": "Tensorflow, React, Azure",
+        "experience_required": 1,
+        "location": "Pune"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Collaborate with cross-functional teams for product development.",
+        "company": "NextGen Tech",
+        "required_skills": "Data Science, React, Python, Node.js",
+        "experience_required": 2,
+        "location": "Pune"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "AI Solutions",
+        "required_skills": "Keras, Azure, React, Data Science",
+        "experience_required": 2,
+        "location": "Jaipur"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "TechPulse",
+        "required_skills": "ML, Azure, Python, React",
+        "experience_required": 8,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "ML Engineer",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "CodeMasters",
+        "required_skills": "React, Node.js, AWS, Azure",
+        "experience_required": 3,
+        "location": "Delhi"
+    },
+    {
+        "title": "AI Researcher",
+        "description": "Collaborate with cross-functional teams for product development.",
+        "company": "NextGen Tech",
+        "required_skills": "Tensorflow, Data Science, AWS, React",
+        "experience_required": 5,
+        "location": "Chennai"
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "InnovaSoft",
+        "required_skills": "AWS, ML, Tensorflow",
+        "experience_required": 4,
+        "location": "Chennai"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "CloudNet",
+        "required_skills": "Java, Python, ML, Node.js",
+        "experience_required": 2,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "DevHub",
+        "required_skills": "Azure, Keras, ML",
+        "experience_required": 2,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Build and maintain frontend components for web applications.",
+        "company": "CloudNet",
+        "required_skills": "Keras, AWS",
+        "experience_required": 2,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "DataWiz",
+        "required_skills": "Java, ML, AWS, React",
+        "experience_required": 7,
+        "location": "Bangalore"
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "InnovaSoft",
+        "required_skills": "ML, Keras, Python",
+        "experience_required": 1,
+        "location": "Bangalore"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Implement DevOps pipelines and manage deployments.",
+        "company": "CodeMasters",
+        "required_skills": "Python, Tensorflow, React, AWS",
+        "experience_required": 8,
+        "location": "Jaipur"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "SoftServe",
+        "required_skills": "AWS, Python, Azure",
+        "experience_required": 9,
+        "location": "Mumbai"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "DevHub",
+        "required_skills": "Python, Node.js, Tensorflow, AWS",
+        "experience_required": 4,
+        "location": "Pune"
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "NextGen Tech",
+        "required_skills": "AWS, Python, Node.js, Tensorflow",
+        "experience_required": 6,
+        "location": "Jaipur"
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Develop machine learning models and optimize AI solutions.",
+        "company": "CodeMasters",
+        "required_skills": "Java, Azure, Keras, Tensorflow",
+        "experience_required": 3,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Implement DevOps pipelines and manage deployments.",
+        "company": "SoftServe",
+        "required_skills": "Java, AWS, Azure, Keras",
+        "experience_required": 9,
+        "location": "Pune"
+    },
+    {
+        "title": "Data Scientist",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "InnovaSoft",
+        "required_skills": "AWS, Python",
+        "experience_required": 10,
+        "location": "Bangalore"
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Implement DevOps pipelines and manage deployments.",
+        "company": "SoftServe",
+        "required_skills": "Keras, Node.js",
+        "experience_required": 6,
+        "location": "Mumbai"
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "TechPulse",
+        "required_skills": "Data Science, Tensorflow, Python",
+        "experience_required": 10,
+        "location": "Pune"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Develop machine learning models and optimize AI solutions.",
+        "company": "DevHub",
+        "required_skills": "Python, ML, Data Science",
+        "experience_required": 6,
+        "location": "Mumbai"
+    },
+    {
+        "title": "ML Engineer",
+        "description": "Optimize system performance and troubleshoot issues.",
+        "company": "CloudNet",
+        "required_skills": "Data Science, ML",
+        "experience_required": 7,
+        "location": "Hyderabad"
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Collaborate with cross-functional teams for product development.",
+        "company": "DataWiz",
+        "required_skills": "Python, Azure, Java, AWS",
+        "experience_required": 10,
+        "location": "Bangalore"
+    },
+    {
+        "title": "ML Engineer",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "AI Solutions",
+        "required_skills": "React, Node.js, Azure, Data Science",
+        "experience_required": 10,
+        "location": "Bangalore"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Implement DevOps pipelines and manage deployments.",
+        "company": "InnovaSoft",
+        "required_skills": "Data Science, Tensorflow, Keras",
+        "experience_required": 4,
+        "location": "Delhi"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "TechCorp",
+        "required_skills": "Data Science, Java, Tensorflow",
+        "experience_required": 6,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Collaborate with cross-functional teams for product development.",
+        "company": "AI Solutions",
+        "required_skills": "Keras, Node.js, Data Science, Azure",
+        "experience_required": 5,
+        "location": "Delhi"
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Optimize system performance and troubleshoot issues.",
+        "company": "CloudNet",
+        "required_skills": "Tensorflow, React, ML, AWS",
+        "experience_required": 7,
+        "location": "Jaipur"
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "TechPulse",
+        "required_skills": "Java, Keras, Python",
+        "experience_required": 4,
+        "location": "Mumbai"
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "CodeMasters",
+        "required_skills": "Data Science, AWS",
+        "experience_required": 1,
+        "location": "Mumbai"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Build and maintain frontend components for web applications.",
+        "company": "AI Solutions",
+        "required_skills": "Java, AWS, Keras, Python",
+        "experience_required": 3,
+        "location": "Mumbai"
+    },
+    {
+        "title": "ML Engineer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "CloudNet",
+        "required_skills": "ML, Tensorflow, Azure, AWS",
+        "experience_required": 4,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Develop machine learning models and optimize AI solutions.",
+        "company": "SoftServe",
+        "required_skills": "Python, Tensorflow, Node.js, Java",
+        "experience_required": 5,
+        "location": "Jaipur"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "AI Solutions",
+        "required_skills": "React, Java, AWS",
+        "experience_required": 8,
+        "location": "Chennai"
+    },
+    {
+        "title": "AI Researcher",
+        "description": "Develop machine learning models and optimize AI solutions.",
+        "company": "DevHub",
+        "required_skills": "Java, Node.js, Azure",
+        "experience_required": 10,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "DevHub",
+        "required_skills": "Keras, ML",
+        "experience_required": 10,
+        "location": "Bangalore"
+    },
+    {
+        "title": "AI Researcher",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "DevHub",
+        "required_skills": "Azure, ML",
+        "experience_required": 1,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Implement DevOps pipelines and manage deployments.",
+        "company": "InnovaSoft",
+        "required_skills": "Data Science, Azure, Keras",
+        "experience_required": 6,
+        "location": "Delhi"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "TechPulse",
+        "required_skills": "Node.js, Python, Keras, ML",
+        "experience_required": 6,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "CodeMasters",
+        "required_skills": "AWS, React, ML, Node.js",
+        "experience_required": 5,
+        "location": "Jaipur"
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "CloudNet",
+        "required_skills": "Node.js, ML, Tensorflow, Python",
+        "experience_required": 7,
+        "location": "Kolkata"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "TechPulse",
+        "required_skills": "Python, AWS, ML",
+        "experience_required": 7,
+        "location": "Mumbai"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Optimize system performance and troubleshoot issues.",
+        "company": "SoftServe",
+        "required_skills": "Node.js, Data Science, AWS, React",
+        "experience_required": 5,
+        "location": "Bangalore"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Build and maintain frontend components for web applications.",
+        "company": "TechPulse",
+        "required_skills": "Data Science, Node.js",
+        "experience_required": 6,
+        "location": "Kolkata"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Build and maintain frontend components for web applications.",
+        "company": "DevHub",
+        "required_skills": "Node.js, AWS",
+        "experience_required": 3,
+        "location": "Mumbai"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Develop machine learning models and optimize AI solutions.",
+        "company": "NextGen Tech",
+        "required_skills": "Tensorflow, React",
+        "experience_required": 2,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "TechPulse",
+        "required_skills": "Node.js, Java, AWS, Tensorflow",
+        "experience_required": 3,
+        "location": "Chennai"
+    },
+    {
+        "title": "Data Scientist",
+        "description": "Implement DevOps pipelines and manage deployments.",
+        "company": "DataWiz",
+        "required_skills": "ML, Java, React, Keras",
+        "experience_required": 3,
+        "location": "Bangalore"
+    },
+    {
+        "title": "AI Researcher",
+        "description": "Build and maintain frontend components for web applications.",
+        "company": "CloudNet",
+        "required_skills": "Azure, AWS",
+        "experience_required": 2,
+        "location": "Delhi"
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "TechPulse",
+        "required_skills": "Node.js, Data Science, Keras",
+        "experience_required": 7,
+        "location": "Delhi"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "NextGen Tech",
+        "required_skills": "Keras, Data Science, Tensorflow",
+        "experience_required": 5,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Collaborate with cross-functional teams for product development.",
+        "company": "DevHub",
+        "required_skills": "Data Science, ML, Tensorflow",
+        "experience_required": 2,
+        "location": "Jaipur"
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "TechPulse",
+        "required_skills": "ML, Tensorflow, Data Science, Azure",
+        "experience_required": 2,
+        "location": "Bangalore"
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "CloudNet",
+        "required_skills": "Java, Keras",
+        "experience_required": 1,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "TechCorp",
+        "required_skills": "Azure, ML, React, Python",
+        "experience_required": 5,
+        "location": "Bangalore"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "DataWiz",
+        "required_skills": "Data Science, AWS, Keras, Tensorflow",
+        "experience_required": 9,
+        "location": "Jaipur"
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Develop machine learning models and optimize AI solutions.",
+        "company": "DataWiz",
+        "required_skills": "Tensorflow, Node.js, Data Science",
+        "experience_required": 10,
+        "location": "Bangalore"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Optimize system performance and troubleshoot issues.",
+        "company": "CloudNet",
+        "required_skills": "Data Science, React, ML, AWS",
+        "experience_required": 9,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "CloudNet",
+        "required_skills": "React, Python, Node.js, Java",
+        "experience_required": 10,
+        "location": "Chennai"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "TechPulse",
+        "required_skills": "AWS, Python, Node.js",
+        "experience_required": 3,
+        "location": "Chennai"
+    },
+    {
+        "title": "ML Engineer",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "TechPulse",
+        "required_skills": "Tensorflow, Keras, Azure",
+        "experience_required": 1,
+        "location": "Delhi"
+    },
+    {
+        "title": "ML Engineer",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "CloudNet",
+        "required_skills": "React, Tensorflow, AWS",
+        "experience_required": 6,
+        "location": "Chennai"
+    },
+    {
+        "title": "AI Researcher",
+        "description": "Build and maintain frontend components for web applications.",
+        "company": "CodeMasters",
+        "required_skills": "AWS, React, Python",
+        "experience_required": 3,
+        "location": "Kolkata"
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "CloudNet",
+        "required_skills": "Python, Tensorflow, Data Science",
+        "experience_required": 3,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "TechCorp",
+        "required_skills": "Azure, Tensorflow, Python, Java",
+        "experience_required": 4,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "AI Solutions",
+        "required_skills": "Keras, Java",
+        "experience_required": 2,
+        "location": "Mumbai"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Optimize system performance and troubleshoot issues.",
+        "company": "DataWiz",
+        "required_skills": "Azure, React, Tensorflow, AWS",
+        "experience_required": 8,
+        "location": "Pune"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Develop machine learning models and optimize AI solutions.",
+        "company": "NextGen Tech",
+        "required_skills": "React, Java, Tensorflow, Node.js",
+        "experience_required": 3,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Collaborate with cross-functional teams for product development.",
+        "company": "InnovaSoft",
+        "required_skills": "Node.js, Azure, React",
+        "experience_required": 8,
+        "location": "Mumbai"
+    },
+    {
+        "title": "AI Researcher",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "NextGen Tech",
+        "required_skills": "Azure, Keras, ML",
+        "experience_required": 6,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "SoftServe",
+        "required_skills": "AWS, Java, Tensorflow, Data Science",
+        "experience_required": 3,
+        "location": "Mumbai"
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "CloudNet",
+        "required_skills": "React, Python, ML",
+        "experience_required": 4,
+        "location": "Mumbai"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "AI Solutions",
+        "required_skills": "Java, Tensorflow, Python",
+        "experience_required": 6,
+        "location": "Jaipur"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "SoftServe",
+        "required_skills": "Java, Python, Azure, Keras",
+        "experience_required": 4,
+        "location": "Mumbai"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Build and maintain frontend components for web applications.",
+        "company": "CodeMasters",
+        "required_skills": "Data Science, Python, Tensorflow",
+        "experience_required": 5,
+        "location": "Bangalore"
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Build and maintain frontend components for web applications.",
+        "company": "SoftServe",
+        "required_skills": "Keras, ML",
+        "experience_required": 8,
+        "location": "Hyderabad"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "SoftServe",
+        "required_skills": "React, ML, Azure",
+        "experience_required": 3,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Implement DevOps pipelines and manage deployments.",
+        "company": "InnovaSoft",
+        "required_skills": "React, Python",
+        "experience_required": 10,
+        "location": "Bangalore"
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "DevHub",
+        "required_skills": "Python, Data Science, Keras, Node.js",
+        "experience_required": 4,
+        "location": "Jaipur"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "DataWiz",
+        "required_skills": "AWS, React",
+        "experience_required": 4,
+        "location": "Pune"
+    },
+    {
+        "title": "AI Researcher",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "NextGen Tech",
+        "required_skills": "ML, AWS, Azure, Node.js",
+        "experience_required": 1,
+        "location": "Delhi"
+    },
+    {
+        "title": "Data Scientist",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "InnovaSoft",
+        "required_skills": "React, ML, Data Science, Java",
+        "experience_required": 9,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "ML Engineer",
+        "description": "Optimize system performance and troubleshoot issues.",
+        "company": "CloudNet",
+        "required_skills": "ML, Python, React",
+        "experience_required": 4,
+        "location": "Mumbai"
+    },
+    {
+        "title": "AI Researcher",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "DevHub",
+        "required_skills": "Node.js, React, Data Science, Java",
+        "experience_required": 8,
+        "location": "Kolkata"
+    },
+    {
+        "title": "Cloud Architect",
+        "description": "Optimize system performance and troubleshoot issues.",
+        "company": "AI Solutions",
+        "required_skills": "Azure, Data Science, React",
+        "experience_required": 9,
+        "location": "Hyderabad"
+    },
+    {
+        "title": "Full Stack Developer",
+        "description": "Implement DevOps pipelines and manage deployments.",
+        "company": "TechPulse",
+        "required_skills": "Java, ML",
+        "experience_required": 4,
+        "location": "Hyderabad"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Develop predictive models using statistical methods.",
+        "company": "TechPulse",
+        "required_skills": "Keras, Java, Node.js, ML",
+        "experience_required": 2,
+        "location": "Hyderabad"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "NextGen Tech",
+        "required_skills": "Tensorflow, Data Science, Python, Keras",
+        "experience_required": 4,
+        "location": "Mumbai"
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Develop machine learning models and optimize AI solutions.",
+        "company": "InnovaSoft",
+        "required_skills": "Keras, Java, AWS",
+        "experience_required": 7,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "DataWiz",
+        "required_skills": "Keras, Python, Node.js",
+        "experience_required": 3,
+        "location": "Coimbatore"
+    },
+    {
+        "title": "Data Scientist",
+        "description": "Conduct research to advance AI capabilities.",
+        "company": "CloudNet",
+        "required_skills": "Node.js, AWS",
+        "experience_required": 7,
+        "location": "Mumbai"
+    },
+    {
+        "title": "DevOps Engineer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "InnovaSoft",
+        "required_skills": "Keras, Azure",
+        "experience_required": 2,
+        "location": "Jaipur"
+    },
+    {
+        "title": "Backend Developer",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "InnovaSoft",
+        "required_skills": "Tensorflow, React",
+        "experience_required": 4,
+        "location": "Chennai"
+    },
+    {
+        "title": "Frontend Developer",
+        "description": "Design scalable backend systems and APIs.",
+        "company": "AI Solutions",
+        "required_skills": "Keras, Azure, Data Science, Tensorflow",
+        "experience_required": 9,
+        "location": "Ahmedabad"
+    },
+    {
+        "title": "Software Engineer",
+        "description": "Analyze datasets to extract actionable insights.",
+        "company": "TechPulse",
+        "required_skills": "ML, Python, Node.js",
+        "experience_required": 9,
+        "location": "Bangalore"
+    },
+    {
+        "title": "Data Analyst",
+        "description": "Architect and manage cloud infrastructure.",
+        "company": "CodeMasters",
+        "required_skills": "Node.js, Tensorflow, Java",
+        "experience_required": 1,
+        "location": "Chennai"
+    }
+]
