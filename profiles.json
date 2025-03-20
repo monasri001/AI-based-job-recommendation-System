@@ -23,14 +23,7 @@
         "bio": "Software engineer with expertise in cloud computing.",
         "location": "Mumbai"
     },
-    {
-        "name": "Krista",
-        "email": "krista81@hotmail.com",
-        "skills": "Tensorflow, Azure, Java",
-        "experience": 7,
-        "bio": "Machine learning expert with real-world project experience.",
-        "location": "Bangalore"
-    },
+
     {
         "name": "Linda",
         "email": "linda33@hotmail.com",
