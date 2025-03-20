@@ -8,14 +8,6 @@
         "location": "Ahmedabad"
     },
     {
-        "title": "Data Analyst",
-        "description": "Conduct research to advance AI capabilities.",
-        "company": "CloudNet",
-        "required_skills": "Python, Keras, React, Azure",
-        "experience_required": 8,
-        "location": "Mumbai"
-    },
-    {
         "title": "DevOps Engineer",
         "description": "Optimize system performance and troubleshoot issues.",
         "company": "SoftServe",
